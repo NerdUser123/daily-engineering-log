@@ -1,6 +1,8 @@
 # daily-engineering-log
 A daily public log of learning, building, and experimenting with engineering concepts across web, app, backend, AI, systems, and infrastructure.
-<hr>
+
+---
+
 # Daily Engineering Log 🚀
 
 This repository is a lightweight public log of my daily learning and experimentation
@@ -17,25 +19,11 @@ It exists purely to:
 
 ---
 
-## Focus Areas
-- Web & Backend Engineering
-- AI / ML
-- Systems & Infrastructure
-- DevOps
-- Web3 (occasionally)
-
----
-
 ## Daily Log
 
-| Day | Date | Topic / Activity | Output |
-|----|------|------------------|--------|
-| 01 | 2026-01-10 | Repo setup & planning | Initialized log |
-| 02 | 2026-01-11 | NumPy ufuncs | Notes |
-| 03 | 2026-01-12 | Firebase basics | Demo |
-| 04 | 2026-01-13 | Scikit-learn intro | Code |
-| 05 | 2026-01-14 | Async JS revision | Notes |
-| … | … | … | … |
+| Day | Date | Topic / Activity |
+|----|------|------------------|
+| 01 | 2026-01-10 | Repository setup, JavaScript introduction, Git & GitHub course completed |
 
 ---
 
