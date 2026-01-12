@@ -4,11 +4,6 @@ A daily public log of learning, building, and experimenting with engineering con
 This repository is a lightweight public log of my daily learning and experimentation
 across software engineering domains.
 
-It exists purely to:
-- stay consistent
-- keep GitHub active with meaningful work
-- document what I learn daily
-- link out to real project repositories when needed
 ---
 
 ## Daily Log
