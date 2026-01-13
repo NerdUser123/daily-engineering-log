@@ -12,6 +12,7 @@ across software engineering domains.
 |----|------|------------------|
 | 01 | 2026-01-10 | Repository setup, JavaScript introduction, Git & GitHub course completed |
 | 02 | 2026-01-11 | IoT workshop (Arduino fundamentals, sensors & actuators), JavaScript course (50% completed) |
+| 03 | 2026-01-12 | IoT workshop (ESP32 sensor integration & real-time display), JavaScript course (80% completed) |
 
 ---
 
