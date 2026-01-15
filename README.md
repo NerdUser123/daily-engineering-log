@@ -14,6 +14,7 @@ across software engineering domains.
 | 02 | 2026-01-11 | IoT workshop (Arduino fundamentals, sensors & actuators), JavaScript course (50% completed) |
 | 03 | 2026-01-12 | IoT workshop (ESP32 sensor integration & real-time display), JavaScript course (80% completed) |
 | 04 | 2026-01-13 | IoT workshop (ESP32 WiFi connectivity & data transmission), Raspberry Pi 5 introduction (OS installation) |
+| 05 | 2026-01-14 | IoT project: NodeMCU smart door / cctv surveillance (sensors, alerts, AQI), drone hardware assembly (Pixhawk, GPS, propulsion system) |
 
 ---
 
