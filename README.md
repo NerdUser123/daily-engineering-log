@@ -16,6 +16,7 @@ across software engineering domains.
 | 04 | 2026-01-13 | IoT workshop (ESP32 WiFi connectivity & data transmission), Raspberry Pi 5 introduction (OS installation) |
 | 05 | 2026-01-14 | IoT project: NodeMCU smart surveillance system, drone assembly, JavaScript basics course completed |
 | 06 | 2026-01-15 | IoT capstone project: NodeMCU-based smart door surveillance system (sensors, web dashboard, Python face recognition integration), secured 1st position in IoT workshop |
+| 07 | 2026-01-16 | Documentation and repository organization for IoT capstone project, basic JavaScript mini projects |
 
 ---
 
