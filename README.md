@@ -17,6 +17,7 @@ across software engineering domains.
 | 05 | 2026-01-14 | IoT project: NodeMCU smart surveillance system, drone assembly, JavaScript basics course completed |
 | 06 | 2026-01-15 | IoT capstone project: NodeMCU-based smart door surveillance system (sensors, web dashboard, Python face recognition integration), secured 1st position in IoT workshop |
 | 07 | 2026-01-16 | Documentation and repository organization for IoT capstone project, basic JavaScript mini projects |
+| 08 | 2026-01-17 | JavaScript basics practice (operators, control flow, loops, functions, arrays) |
 
 ---
 
