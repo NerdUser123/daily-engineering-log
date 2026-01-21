@@ -20,6 +20,7 @@ across software engineering domains.
 | 08 | 2026-01-17 | JavaScript basics practice (operators, control flow, loops, functions, arrays) |
 | 09 | 2026-01-18 | Robotics project: line following car implementation |
 | 10 | 2026-01-19 | Robotics project: line following robot (LFR), JavaScript practice |
+| 11 | 2026-01-20 | Robotics project: line following robot (LFR), JavaScript problem solving and mini projects |
 
 ---
 
