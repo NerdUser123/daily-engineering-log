@@ -21,6 +21,7 @@ across software engineering domains.
 | 09 | 2026-01-18 | Robotics project: line following car implementation |
 | 10 | 2026-01-19 | Robotics project: line following robot (LFR), JavaScript practice |
 | 11 | 2026-01-20 | Robotics project: line following robot (LFR), JavaScript problem solving and mini projects |
+| 12 | 2026-01-21 | Robotics projects: line following robot (LFR), drone work, JavaScript practice |
 
 ---
 
