@@ -23,6 +23,7 @@ across software engineering domains.
 | 11 | 2026-01-20 | Robotics project: line following robot (LFR), JavaScript problem solving and mini projects |
 | 12 | 2026-01-21 | Robotics projects: line following robot (LFR), drone work, JavaScript practice |
 | 13 | 2026-01-22 | JavaScript project: initial setup and implementation started |
+| 14 | 2026-01-23 | Robotics project: line following robot (LFR) implementation and functional testing |
 
 ---
 
