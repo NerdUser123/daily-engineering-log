@@ -26,6 +26,7 @@ across software engineering domains.
 | 14 | 2026-01-23 | Robotics project: line following robot (LFR) implementation and functional testing |
 | 15 | 2026-01-24 | Review and minor refinements on ongoing robotics and JavaScript work |
 | 16 | 2026-01-25 | Data science course: fundamentals and initial concepts |
+| 17 | 2026-01-26 | Robotics project: line following robot (LFR) wiring and connections, data science course progress |
 
 ---
 
