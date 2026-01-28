@@ -27,6 +27,7 @@ across software engineering domains.
 | 15 | 2026-01-24 | Review and minor refinements on ongoing robotics and JavaScript work |
 | 16 | 2026-01-25 | Data science course: fundamentals and initial concepts |
 | 17 | 2026-01-26 | Robotics project: line following robot (LFR) wiring and connections, data science course progress |
+| 18 | 2026-01-27 | Data science course introduction, Python fundamentals course started |
 
 ---
 
