@@ -28,6 +28,7 @@ across software engineering domains.
 | 16 | 2026-01-25 | Data science course: fundamentals and initial concepts |
 | 17 | 2026-01-26 | Robotics project: line following robot (LFR) wiring and connections, data science course progress |
 | 18 | 2026-01-27 | Data science course introduction, Python fundamentals course started |
+| 19 | 2026-01-28 | Python fundamentals course progress (~10% completed) |
 
 ---
 
