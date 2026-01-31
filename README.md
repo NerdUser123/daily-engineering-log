@@ -30,6 +30,7 @@ across software engineering domains.
 | 18 | 2026-01-27 | Data science course introduction, Python fundamentals course started |
 | 19 | 2026-01-28 | Python fundamentals - course progress (~10% completed) |
 | 20 | 2026-01-29 | Python Control flow and loops , strings - course progress (~21% completed) |
+| 21 | 2026-01-30 | Python Funtions, Data Structures, OOPS - course progress (~37% completed) |
 
 ---
 
