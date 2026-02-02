@@ -32,6 +32,7 @@ across software engineering domains.
 | 20 | 2026-01-29 | Python Control flow and loops , strings - course progress (~21% completed) |
 | 21 | 2026-01-30 | Python Funtions, Data Structures, OOPS - course progress (~37% completed) |
 | 22 | 2026-01-31 | Python OOPS, Advance python - course progress (~50% completed) |
+| 23 | 2026-02-01 | Python File I/O, External libraries, using AI - course progress (~62% completed) |
 
 ---
 
