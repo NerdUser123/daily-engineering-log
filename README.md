@@ -37,6 +37,7 @@ across software engineering domains.
 | 25 | 2026-02-03 | Part 1 of the course: Python basics and fundamentals completed ( 100% course completed [ PART 1 ] ) |
 | 26 | 2026-02-04 | Python practice: completed 8 small projects |
 | 27 | 2026-02-05 | Python course revision and consolidation, research and ideation for IoT-based women safety system |
+| 28 | 2026-02-06 | AI/IoT women safety project work, 4-wheel rover development, drone work |
 
 ---
 
