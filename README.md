@@ -46,6 +46,7 @@ across software engineering domains.
 | 34 | 2026-02-12 | Python project: initial development started - AI powred reel generator |
 | 35 | 2026-02-13 | AI course completed: Generative AI and Large Language Models (LLMs) |
 | 36 | 2026-02-14 | Python revision and continued development of Python project |
+| 37 | 2026-02-15 | AI course completed: Introduction to AI, Machine Learning, and Deep Learning |
 
 ---
 
