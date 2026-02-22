@@ -52,6 +52,7 @@ across software engineering domains.
 | 39 | 2026-02-17 | Continued development and incremental improvements on Python project |
 | 40 | 2026-02-18 | Ongoing development and minor refinements on Python project |
 | 41 | 2026-02-19 | Python project: continued feature refinement and code improvements |
+| 42 | 2026-02-20 | Data science course: initial modules started |
 
 ---
 
