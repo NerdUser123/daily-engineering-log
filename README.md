@@ -68,6 +68,7 @@ across software engineering domains.
 | 55 | 2026-03-05 | Matrix 3.0 website: authentication flow updates and form validation improvements |
 | 56 | 2026-03-06 | Matrix 3.0 website: final UI refinements and minor bug fixes |
 | 57 | 2026-03-07 | Web development: HTML practice and semantic structure exploration |
+| 58 | 2026-03-08 | Web development: HTML course completed and certificate earned |
 ---
 
 ## Rules
