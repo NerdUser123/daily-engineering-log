@@ -70,6 +70,7 @@ across software engineering domains.
 | 57 | 2026-03-07 | Web development: HTML practice and semantic structure exploration |
 | 58 | 2026-03-08 | Web development: HTML course completed and certificate earned |
 | 59 | 2026-03-09 | Web development: started learning CSS fundamentals |
+| 60 | 2026-03-10 | Web development: CSS course progress (~50% completed) |
 ---
 
 ## Rules
