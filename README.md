@@ -79,6 +79,7 @@ across software engineering domains.
 | 66 | 2026-03-16 | Society website development: hero section and navigation bar implementation, CSS practice |
 | 67 | 2026-03-17 | Society website: minor styling adjustments and CSS refinements |
 | 68 | 2026-03-18 | Society website: layout adjustments and minor UI improvements |
+| 69 | 2026-03-19 | Academic preparation: operating systems internal exam study |
 ---
 
 ## Rules
