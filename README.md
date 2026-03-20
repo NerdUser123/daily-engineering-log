@@ -80,6 +80,7 @@ across software engineering domains.
 | 67 | 2026-03-17 | Society website: minor styling adjustments and CSS refinements |
 | 68 | 2026-03-18 | Society website: layout adjustments and minor UI improvements |
 | 69 | 2026-03-19 | Academic preparation: operating systems internal exam study |
+| 70 | 2026-03-20 | Academic preparation: software testing internal exam study |
 ---
 
 ## Rules
