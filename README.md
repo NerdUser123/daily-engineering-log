@@ -81,6 +81,7 @@ across software engineering domains.
 | 68 | 2026-03-18 | Society website: layout adjustments and minor UI improvements |
 | 69 | 2026-03-19 | Academic preparation: operating systems internal exam study |
 | 70 | 2026-03-20 | Academic preparation: software testing internal exam study |
+| 71 | 2026-03-21 | Academic preparation: ILCT and Operating Systems exam study |
 ---
 
 ## Rules
