@@ -82,6 +82,7 @@ across software engineering domains.
 | 69 | 2026-03-19 | Academic preparation: operating systems internal exam study |
 | 70 | 2026-03-20 | Academic preparation: software testing internal exam study |
 | 71 | 2026-03-21 | Academic preparation: ILCT and Operating Systems exam study |
+| 72 | 2026-03-22 | Academic preparation: ILCT (Introduction to Logical and Critical Thinking) exam study |
 ---
 
 ## Rules
