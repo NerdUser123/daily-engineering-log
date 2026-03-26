@@ -86,6 +86,7 @@ across software engineering domains.
 | 73 | 2026-03-23 | Academic preparation: Operating Systems exam study |
 | 74 | 2026-03-24 | Academic preparation: Data Science exam study |
 | 75 | 2026-03-25 | Academic preparation: Data Science exam study (fundamentals, Python libraries, NumPy, Pandas, statistics) |
+| 76 | 2026-03-26 | Academic preparation: Data Science exam study (in-depth revision) |
 ---
 
 ## Rules
