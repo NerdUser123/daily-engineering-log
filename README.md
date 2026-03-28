@@ -88,6 +88,7 @@ across software engineering domains.
 | 75 | 2026-03-25 | Academic preparation: Data Science exam study (fundamentals, Python libraries, NumPy, Pandas, statistics) |
 | 76 | 2026-03-26 | Academic preparation: Data Science exam study (in-depth revision) |
 | 77 | 2026-03-27 | Academic preparation: Digital Marketing exam study, DSA in Java introduction (algorithms, flowcharts, pseudocode) |
+| 78 | 2026-03-28 | DSA in Java: program execution flow (compiler, bytecode, JVM, JRE, JDK) and fundamentals |
 ---
 
 ## Rules
