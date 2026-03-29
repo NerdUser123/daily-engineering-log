@@ -89,6 +89,7 @@ across software engineering domains.
 | 76 | 2026-03-26 | Academic preparation: Data Science exam study (in-depth revision) |
 | 77 | 2026-03-27 | Academic preparation: Digital Marketing exam study, DSA in Java introduction (algorithms, flowcharts, pseudocode) |
 | 78 | 2026-03-28 | DSA in Java: program execution flow (compiler, bytecode, JVM, JRE, JDK) and fundamentals |
+| 79 | 2026-03-29 | DSA in Java: program execution flow and development environment setup (compiler, JVM, JDK, IntelliJ IDEA) |
 ---
 
 ## Rules
