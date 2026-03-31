@@ -91,6 +91,7 @@ across software engineering domains.
 | 78 | 2026-03-28 | DSA in Java: program execution flow (compiler, bytecode, JVM, JRE, JDK) and fundamentals |
 | 79 | 2026-03-29 | DSA in Java: program execution flow and development environment setup (compiler, JVM, JDK, IntelliJ IDEA) |
 | 80 | 2026-03-30 | DSA in Java: basic program structure, functions, main method, and first Java program implementation |
+| 81 | 2026-03-31 | DSA in Java: variables, declaration and initialization, naming rules and conventions |
 ---
 
 ## Rules
