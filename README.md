@@ -93,6 +93,7 @@ across software engineering domains.
 | 80 | 2026-03-30 | DSA in Java: basic program structure, functions, main method, and first Java program implementation |
 | 81 | 2026-03-31 | DSA in Java: variables, declaration and initialization, naming rules and conventions |
 | 82 | 2026-04-01 | DSA in Java: data types, type casting, ASCII concepts, and operators (arithmetic, relational, logical, assignment, unary) |
+| 83 | 2026-04-02 | DSA in Java: user input using Scanner and basics of memory management (heap, stack, garbage collection) |
 ---
 
 ## Rules
