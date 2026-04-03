@@ -94,6 +94,7 @@ across software engineering domains.
 | 81 | 2026-03-31 | DSA in Java: variables, declaration and initialization, naming rules and conventions |
 | 82 | 2026-04-01 | DSA in Java: data types, type casting, ASCII concepts, and operators (arithmetic, relational, logical, assignment, unary) |
 | 83 | 2026-04-02 | DSA in Java: user input using Scanner and basics of memory management (heap, stack, garbage collection) |
+| 84 | 2026-04-03 | DSA in Java: conditional statements (if-else, nested if, switch case, ternary operator) |
 ---
 
 ## Rules
