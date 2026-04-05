@@ -96,6 +96,7 @@ across software engineering domains.
 | 83 | 2026-04-02 | DSA in Java: user input using Scanner and basics of memory management (heap, stack, garbage collection) |
 | 84 | 2026-04-03 | DSA in Java: conditional statements (if-else, nested if, switch case, ternary operator) |
 | 85 | 2026-04-04 | Java practice: revisited core concepts and minor code refinements |
+| 86 | 2026-04-05 | DSA in Java: loops (for, while, do-while), nested loops, and control statements (break, continue) |
 ---
 
 ## Rules
