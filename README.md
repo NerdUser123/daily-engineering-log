@@ -98,6 +98,7 @@ across software engineering domains.
 | 85 | 2026-04-04 | Java practice: revisited core concepts and minor code refinements |
 | 86 | 2026-04-05 | DSA in Java: loops (for, while, do-while), nested loops, and control statements (break, continue) |
 | 87 | 2026-04-06 | Java practice: revision of loops and control flow concepts |
+| 88 | 2026-04-07 | Java practice: basic problem solving and logic building |
 ---
 
 ## Rules
