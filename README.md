@@ -102,6 +102,7 @@ across software engineering domains.
 | 89 | 2026-04-08 | Java practice: minor revision and code review of previously learned concepts |
 | 90 | 2026-04-09 | DSA in Java: pattern problems (triangles, pyramids, hollow patterns, numerical and character patterns) |
 | 91 | 2026-04-10 | DSA in Java: methods, function execution flow, call stack, method overloading, and pass by value |
+| 92 | 2026-04-11 | DSA in Java: arrays (1D, 2D, traversal, basic operations, and matrix problems) |
 ---
 
 ## Rules
