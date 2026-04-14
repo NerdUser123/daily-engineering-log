@@ -105,6 +105,7 @@ across software engineering domains.
 | 92 | 2026-04-11 | DSA in Java: arrays (1D, 2D, traversal, basic operations, and matrix problems) |
 | 93 | 2026-04-12 | DSA in Java: strings (creation, immutability, methods, comparison, and basic problems like reverse and palindrome) |
 | 94 | 2026-04-13 | DSA in Java: number problems (digit manipulation, prime, palindrome, GCD/LCM, Armstrong, perfect numbers) |
+| 95 | 2026-04-14 | DSA in Java: introduction to OOPs (classes, objects, instances, and procedural vs OOP concepts) |
 ---
 
 ## Rules
