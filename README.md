@@ -108,6 +108,7 @@ across software engineering domains.
 | 95 | 2026-04-14 | DSA in Java: introduction to OOPs (classes, objects, instances, and procedural vs OOP concepts) |
 | 96 | 2026-04-15 | DSA in Java: OOP implementation (classes, objects, attributes, methods, and constructors) |
 | 97 | 2026-04-16 | DSA in Java: encapsulation (access modifiers, getters/setters, and data hiding) |
+| 98 | 2026-04-17 | DSA in Java: inheritance (types, super keyword, and access modifiers in inheritance) |
 ---
 
 ## Rules
