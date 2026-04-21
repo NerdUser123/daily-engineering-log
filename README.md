@@ -112,6 +112,7 @@ across software engineering domains.
 | 99 | 2026-04-18 | DSA in Java: polymorphism (method overloading, method overriding, upcasting and downcasting) |
 | 100 | 2026-04-19 | DSA in Java: abstraction (abstract classes, interfaces, and abstraction principles) |
 | 101 | 2026-04-20 | DSA: time and space complexity analysis (Big O, Theta, Omega, and complexity patterns) |
+| 102 | 2026-04-21 | Java Collections Framework: List interface, ArrayList, LinkedList, Vector, and Stack operations |
 ---
 
 ## Rules
