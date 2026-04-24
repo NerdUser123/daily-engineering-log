@@ -114,6 +114,7 @@ across software engineering domains.
 | 101 | 2026-04-20 | DSA: time and space complexity analysis (Big O, Theta, Omega, and complexity patterns) |
 | 102 | 2026-04-21 | Java Collections Framework: List interface, ArrayList, LinkedList, Vector, and Stack operations |
 | 103 | 2026-04-22 | Java Collections Framework: Queue, PriorityQueue, Deque (stack), and Set implementations (HashSet, LinkedHashSet, TreeSet) |
+| 104 | 2026-04-23 | Java Collections Framework: Map (HashMap, TreeMap), key-value operations, and custom sorting (Comparable, Comparator) |
 ---
 
 ## Rules
