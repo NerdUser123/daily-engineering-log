@@ -117,6 +117,7 @@ across software engineering domains.
 | 104 | 2026-04-23 | Java Collections Framework: Map (HashMap, TreeMap), key-value operations, and custom sorting (Comparable, Comparator) |
 | 105 | 2026-04-24 | DSA: revision of collections framework concepts and problem-solving approach |
 | 106 | 2026-04-25 | DSA in Java: bitwise operators and applications (set bits, power of two, XOR-based problems) |
+| 107 | 2026-04-26 | DSA in Java: array problem solving (linear search, max element, frequency counting, and traversal-based problems) |
 ---
 
 ## Rules
