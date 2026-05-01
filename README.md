@@ -122,6 +122,7 @@ across software engineering domains.
 | 109 | 2026-04-28 | DSA in Java: array problems (two-pointer sorting, missing number, and XOR-based unique element) |
 | 110 | 2026-04-29 | DSA: revision of array problem-solving patterns and optimization techniques |
 | 111 | 2026-04-30 | DSA: problem-solving approach refinement and dry run practice on array-based questions |
+| 112 | 2026-05-01 | DSA in Java: array problems (two sum, three sum, prefix/suffix sums, and two-pointer techniques) |
 ---
 
 ## Rules
