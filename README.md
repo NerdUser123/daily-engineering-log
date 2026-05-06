@@ -127,6 +127,7 @@ across software engineering domains.
 | 114 | 2026-05-03 | DSA: revisited core concepts and reviewed previous problem solutions |
 | 115 | 2026-05-04 | DSA: reviewed previous implementations and reinforced problem-solving approaches |
 | 116 | 2026-05-05 | Academic and personal commitments, no development activity |
+| 117 | 2026-05-06 | DSA practice: solved 2 LeetCode problems focused on array and problem-solving concepts |
 ---
 
 ## Rules
