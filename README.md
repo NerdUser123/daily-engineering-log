@@ -131,6 +131,7 @@ across software engineering domains.
 | 118 | 2026-05-07 | DSA: revisited previously solved LeetCode problems and solution approaches |
 | 119 | 2026-05-08 | DSA in Java: array optimization problem using index marking technique and in-place traversal |
 | 120 | 2026-05-09 | DSA: reviewed previously learned optimization techniques and problem-solving patterns |
+| 121 | 2026-05-10 | DSA: revisited array and hashing concepts for problem-solving continuity |
 ---
 
 ## Rules
