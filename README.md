@@ -133,6 +133,8 @@ across software engineering domains.
 | 120 | 2026-05-09 | DSA: reviewed previously learned optimization techniques and problem-solving patterns |
 | 121 | 2026-05-10 | DSA: revisited array and hashing concepts for problem-solving continuity |
 | 122 | 2026-05-11 | DSA: reviewed previously practiced problem-solving techniques and implementation strategies |
+| 122 | 2026-05-11 | DSA: reviewed previously practiced problem-solving techniques and implementation strategies |
+| 123 | 2026-05-12 | DSA in Java: array optimization problem using index marking and in-place hashing techniques |
 ---
 
 ## Rules
