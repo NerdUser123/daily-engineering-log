@@ -135,6 +135,7 @@ across software engineering domains.
 | 122 | 2026-05-11 | DSA: reviewed previously practiced problem-solving techniques and implementation strategies |
 | 123 | 2026-05-12 | DSA in Java: array optimization problem using index marking and in-place hashing techniques |
 | 124 | 2026-05-13 | DSA in Java: Kadane’s Algorithm and maximum subarray sum optimization |
+| 125 | 2026-05-14 | DSA in Java: 2D array problems (row/column sums, wave traversal, and matrix transpose) |
 ---
 
 ## Rules
