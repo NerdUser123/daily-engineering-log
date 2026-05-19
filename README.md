@@ -140,6 +140,7 @@ across software engineering domains.
 | 127 | 2026-05-16 | DSA in Java: sorting algorithms (bubble sort, selection sort, and insertion sort) |
 | 128 | 2026-05-17 | DSA in Java: binary search fundamentals, optimized searching, and logarithmic complexity analysis |
 | 129 | 2026-05-18 | DSA in Java: binary search applications (lower bound, upper bound, and occurrence counting) |
+| 130 | 2026-05-19 | DSA in Java: binary search on mountain arrays and peak element optimization |
 
 ---
 
