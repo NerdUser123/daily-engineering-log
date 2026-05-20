@@ -141,6 +141,7 @@ across software engineering domains.
 | 128 | 2026-05-17 | DSA in Java: binary search fundamentals, optimized searching, and logarithmic complexity analysis |
 | 129 | 2026-05-18 | DSA in Java: binary search applications (lower bound, upper bound, and occurrence counting) |
 | 130 | 2026-05-19 | DSA in Java: binary search on mountain arrays and peak element optimization |
+| 131 | 2026-05-20 | DSA in Java: rotated sorted array problems (pivot index detection and optimized binary search) |
 
 ---
 
