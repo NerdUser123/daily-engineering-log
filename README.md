@@ -143,6 +143,7 @@ across software engineering domains.
 | 130 | 2026-05-19 | DSA in Java: binary search on mountain arrays and peak element optimization |
 | 131 | 2026-05-20 | DSA in Java: rotated sorted array problems (pivot index detection and optimized binary search) |
 | 132 | 2026-05-21 | JavaScript fundamentals: variables, data types, operators, control flow, and loops |
+| 133 | 2026-05-22 | JavaScript fundamentals: functions, arrays, and objects |
 
 ---
 
