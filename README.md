@@ -145,6 +145,7 @@ across software engineering domains.
 | 132 | 2026-05-21 | JavaScript fundamentals: variables, data types, operators, control flow, and loops |
 | 133 | 2026-05-22 | JavaScript fundamentals: functions, arrays, and objects |
 | 134 | 2026-05-23 | JavaScript practice: solved problems on control flow, loops, functions, arrays, and objects |
+| 135 | 2026-05-24 | Operating System: studied memory management and virtual memory concepts |
 ---
 
 ## Rules
