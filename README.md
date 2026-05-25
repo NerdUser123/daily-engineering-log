@@ -146,6 +146,7 @@ across software engineering domains.
 | 133 | 2026-05-22 | JavaScript fundamentals: functions, arrays, and objects |
 | 134 | 2026-05-23 | JavaScript practice: solved problems on control flow, loops, functions, arrays, and objects |
 | 135 | 2026-05-24 | Operating System: studied memory management and virtual memory concepts |
+| 136 | 2026-05-25 | Operating System: studied deadlocks, prevention, avoidance, detection, and recovery techniques |
 ---
 
 ## Rules
