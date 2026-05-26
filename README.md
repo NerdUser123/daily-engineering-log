@@ -147,6 +147,7 @@ across software engineering domains.
 | 134 | 2026-05-23 | JavaScript practice: solved problems on control flow, loops, functions, arrays, and objects |
 | 135 | 2026-05-24 | Operating System: studied memory management and virtual memory concepts |
 | 136 | 2026-05-25 | Operating System: studied deadlocks, prevention, avoidance, detection, and recovery techniques |
+| 137 | 2026-05-26 | Operating System: studied file management concepts and Linux file security permissions |
 ---
 
 ## Rules
