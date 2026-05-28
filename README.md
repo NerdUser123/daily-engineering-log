@@ -149,6 +149,7 @@ across software engineering domains.
 | 136 | 2026-05-25 | Operating System: studied deadlocks, prevention, avoidance, detection, and recovery techniques |
 | 137 | 2026-05-26 | Operating System: studied file management concepts and Linux file security permissions |
 | 138 | 2026-05-27 | Operating System: studied OS fundamentals, Linux basics, process scheduling, synchronization, and Linux process commands |
+| 139 | 2026-05-28 | Software Testing: studied testing fundamentals, STLC, verification & validation, and static testing techniques |
 ---
 
 ## Rules
