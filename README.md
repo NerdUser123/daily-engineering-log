@@ -151,6 +151,7 @@ across software engineering domains.
 | 138 | 2026-05-27 | Operating System: studied OS fundamentals, Linux basics, process scheduling, synchronization, and Linux process commands |
 | 139 | 2026-05-28 | Software Testing: studied testing fundamentals, STLC, verification & validation, and static testing techniques |
 | 140 | 2026-05-29 | Software Testing: studied black box testing, white box testing, path testing, cyclomatic complexity, and data flow testing |
+| 141 | 2026-05-30 | Software Testing: studied levels of testing including unit, integration, system, and acceptance testing |
 ---
 
 ## Rules
