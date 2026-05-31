@@ -152,6 +152,7 @@ across software engineering domains.
 | 139 | 2026-05-28 | Software Testing: studied testing fundamentals, STLC, verification & validation, and static testing techniques |
 | 140 | 2026-05-29 | Software Testing: studied black box testing, white box testing, path testing, cyclomatic complexity, and data flow testing |
 | 141 | 2026-05-30 | Software Testing: studied levels of testing including unit, integration, system, and acceptance testing |
+| 142 | 2026-05-31 | Software Testing: studied test planning, scope management, test approach, resources, and test deliverables |
 ---
 
 ## Rules
