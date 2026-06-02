@@ -154,6 +154,7 @@ across software engineering domains.
 | 141 | 2026-05-30 | Software Testing: studied levels of testing including unit, integration, system, and acceptance testing |
 | 142 | 2026-05-31 | Software Testing: studied test planning, scope management, test approach, resources, and test deliverables |
 | 143 | 2026-06-01 | Software Testing: studied test management, test process, traceability, reporting, and product release activities |
+| 144 | 2026-06-02 | ILCT: studied logical and critical thinking fundamentals, reasoning, arguments, claims, and fact vs opinion |
 ---
 
 ## Rules
