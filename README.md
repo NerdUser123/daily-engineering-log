@@ -155,7 +155,8 @@ across software engineering domains.
 | 142 | 2026-05-31 | Software Testing: studied test planning, scope management, test approach, resources, and test deliverables |
 | 143 | 2026-06-01 | Software Testing: studied test management, test process, traceability, reporting, and product release activities |
 | 144 | 2026-06-02 | ILCT: studied logical and critical thinking fundamentals, reasoning, arguments, claims, and fact vs opinion |
-log: day-144 logical reasoning and critical thinking concepts
+| 145 | 2026-06-03 | ILCT: studied concept of logic, deductive and inductive arguments, validity, soundness, and argument evaluation |
+
 ---
 
 ## Rules
