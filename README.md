@@ -161,6 +161,7 @@ across software engineering domains.
 | 148 | 2026-06-06 | Data Science: studied Python for data science, NumPy arrays and vectorized computation, and Pandas series, dataframes, and data analysis operations |
 | 149 | 2026-06-07 | Data Science: studied descriptive statistics, data distribution measures, box plots, pivot tables, and linear regression fundamentals |
 | 150 | 2026-06-08 | Data Science: studied Bayesian statistics, probability theory, probability distributions, and the Central Limit Theorem |
+| 151 | 2026-06-09 | Data Science: studied inferential statistics, correlation and regression analysis, sampling techniques, probability distributions, and hypothesis testing |
 ---
 
 ## Rules
