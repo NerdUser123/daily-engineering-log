@@ -162,6 +162,7 @@ across software engineering domains.
 | 149 | 2026-06-07 | Data Science: studied descriptive statistics, data distribution measures, box plots, pivot tables, and linear regression fundamentals |
 | 150 | 2026-06-08 | Data Science: studied Bayesian statistics, probability theory, probability distributions, and the Central Limit Theorem |
 | 151 | 2026-06-09 | Data Science: studied inferential statistics, correlation and regression analysis, sampling techniques, probability distributions, and hypothesis testing |
+| 152 | 2026-06-10 | Digital Marketing: studied digital marketing fundamentals, marketing channels, POEM framework, inbound/outbound marketing, and audience analysis |
 ---
 
 ## Rules
