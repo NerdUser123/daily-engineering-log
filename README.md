@@ -165,6 +165,7 @@ across software engineering domains.
 | 152 | 2026-06-10 | Digital Marketing: studied digital marketing fundamentals, marketing channels, POEM framework, inbound/outbound marketing, and audience analysis |
 | 153 | 2026-06-11 | Digital Marketing: studied social media marketing, email marketing, SEO, SEM, marketing tools, and web analytics |
 | 154 | 2026-06-12 | Consolidated learning progress, reviewed completed coursework, and planned next learning milestones |
+| 155 | 2026-06-13 | Started Data Science course and explored the fundamentals, scope, and roadmap of data science |
 ---
 
 ## Rules
