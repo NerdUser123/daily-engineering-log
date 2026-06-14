@@ -166,6 +166,7 @@ across software engineering domains.
 | 153 | 2026-06-11 | Digital Marketing: studied social media marketing, email marketing, SEO, SEM, marketing tools, and web analytics |
 | 154 | 2026-06-12 | Consolidated learning progress, reviewed completed coursework, and planned next learning milestones |
 | 155 | 2026-06-13 | Started Data Science course and explored the fundamentals, scope, and roadmap of data science |
+| 156 | 2026-06-14 | Data Science: completed introduction to data science, conda environment setup, Jupyter workflow, and Python fundamentals for data science |
 ---
 
 ## Rules
