@@ -168,6 +168,7 @@ across software engineering domains.
 | 155 | 2026-06-13 | Started Data Science course and explored the fundamentals, scope, and roadmap of data science |
 | 156 | 2026-06-14 | Data Science: completed introduction to data science, conda environment setup, Jupyter workflow, and Python fundamentals for data science |
 | 157 | 2026-06-15 | Data Science: completed Python refresher covering core Python concepts, data structures, file handling, OOP, and functional programming techniques |
+| 158 | 2026-06-16 | Data Science: continued course progress and explored foundational concepts of numerical computing and data analysis workflows |
 ---
 
 ## Rules
