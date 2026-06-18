@@ -170,6 +170,7 @@ across software engineering domains.
 | 157 | 2026-06-15 | Data Science: completed Python refresher covering core Python concepts, data structures, file handling, OOP, and functional programming techniques |
 | 158 | 2026-06-16 | Data Science: continued course progress and explored foundational concepts of numerical computing and data analysis workflows |
 | 159 | 2026-06-17 | Data Science: reviewed previously learned concepts, consolidated Python fundamentals, and planned upcoming modules in the learning roadmap |
+| 160 | 2026-06-18 | Data Science: completed Project 1 (Coders of Delhi) involving data cleaning, data structuring, and recommendation system concepts |
 ---
 
 ## Rules
