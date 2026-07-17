@@ -199,6 +199,7 @@ across software engineering domains.
 | 186 | 2026-07-14 | Strengthened JavaScript skills by practicing DOM traversal, event handling, event listeners, and building interactive UI functionality through coding exercises |
 | 187 | 2026-07-15 | Practiced JavaScript DOM fundamentals, including DOM tree structure, element selection, content manipulation, attribute handling, dynamic DOM creation, and styling through interactive exercises |
 | 188 | 2026-07-16 | Strengthened JavaScript DOM skills by solving practical DOM manipulation problems and practicing real-world event-driven interactions through coding exercises |
+| 189 | 2026-07-17 | Started learning JavaScript events and event handling, exploring event listeners, event objects, and interactive user interactions through practical coding exercises |
 ---
 
 ## Rules
