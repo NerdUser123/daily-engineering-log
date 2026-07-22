@@ -204,6 +204,7 @@ across software engineering domains.
 | 191 | 2026-07-19 | Reinforced JavaScript event handling concepts by reviewing event-driven programming patterns, organizing practice notes, and preparing for advanced DOM interaction topics |
 | 192 | 2026-07-20 | Reviewed the frontend project structure, consolidated previous JavaScript concepts, and prepared the codebase for upcoming React and feature development |
 | 193 | 2026-07-21 | Studied and practiced JavaScript events and event listeners, implementing interactive event-driven functionality through hands-on coding exercises |
+| 194 | 2026-07-22 | Studied advanced JavaScript event handling concepts, including the event object, event propagation (bubbling and capturing), and preventDefault() through practical coding exercises |
 ---
 
 ## Rules
