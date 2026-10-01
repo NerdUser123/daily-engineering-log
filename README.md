@@ -273,6 +273,7 @@ across software engineering domains.
 | 262 | 2026-09-28 | Practiced Python and prepared for college exams by studying Artificial Intelligence and Natural Language Processing concepts |
 | 263 | 2026-09-29 | Prepared presentations for two SIH projects, organizing the project details, solution approach, and key points for the hackathon presentations |
 | 264 | 2026-09-30 | Finalized presentations for two SIH projects, completing the required PPT work and making final preparations for the submission deadline |
+| 265 | 2026-10-01 | Artificial Intelligence topics including state-space search, production systems, heuristic search, hill climbing, best-first search, problem reduction, and constraint satisfaction, along with NLP fundamentals, language-processing levels, text preprocessing, and regular expressions |
 ---
 
 ## Rules
