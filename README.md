@@ -275,6 +275,7 @@ across software engineering domains.
 | 264 | 2026-09-30 | Finalized presentations for two SIH projects, completing the required PPT work and making final preparations for the submission deadline |
 | 265 | 2026-10-01 | Artificial Intelligence topics including state-space search, production systems, heuristic search, hill climbing, best-first search, problem reduction, and constraint satisfaction, along with NLP fundamentals, language-processing levels, text preprocessing, and regular expressions |
 | 266 | 2026-10-02 | Prepared for Computer Networks exams by studying data communication basics, network topologies and categories, OSI and TCP/IP models, transmission media, signal impairments, throughput, propagation concepts, wavelength, and Shannon capacity |
+| 267 | 2026-10-03 | Continued Computer Networks exam preparation by studying multiplexing techniques including WDM, TDM, and FDM, along with circuit switching, packet switching, message switching, and introductory Data Link Layer concepts |
 ---
 
 ## Rules
