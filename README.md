@@ -279,6 +279,7 @@ across software engineering domains.
 | 268 | 2026-10-05 | Prepared for Computer Networks exams by studying Data Link Layer concepts including types of errors, character and bit stuffing, error detection and correction, flow control, Stop-and-Wait ARQ, Go-Back-N ARQ, and Selective Repeat ARQ |
 | 269 | 2026-10-06 | Prepared for AI exams by studying knowledge representation, logical reasoning, inference techniques, and expert systems |
 | 270 | 2026-10-06 | Studied NLP fundamentals, language processing levels, text preprocessing techniques, and regular expressions for exams |
+| 271 | 2026-10-07 | Studied Network Layer concepts including internetworking devices, IPv4/IPv6 addressing, subnetting, routing protocols, and static and dynamic routing |
 ---
 
 ## Rules
