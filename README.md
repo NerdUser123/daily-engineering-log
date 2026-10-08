@@ -280,6 +280,7 @@ across software engineering domains.
 | 269 | 2026-10-06 | Prepared for AI exams by studying knowledge representation, logical reasoning, inference techniques, and expert systems |
 | 270 | 2026-10-06 | Studied NLP fundamentals, language processing levels, text preprocessing techniques, and regular expressions for exams |
 | 271 | 2026-10-07 | Studied Network Layer concepts including internetworking devices, IPv4/IPv6 addressing, subnetting, routing protocols, and static and dynamic routing |
+| 272 | 2026-10-08 | Studied NLP topics including POS tagging, CFG and syntactic parsing, NER, WSD, language models, and n-grams |
 ---
 
 ## Rules
