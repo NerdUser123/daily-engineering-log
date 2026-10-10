@@ -282,6 +282,7 @@ across software engineering domains.
 | 271 | 2026-10-07 | Studied Network Layer concepts including internetworking devices, IPv4/IPv6 addressing, subnetting, routing protocols, and static and dynamic routing |
 | 272 | 2026-10-08 | Studied NLP topics including POS tagging, CFG and syntactic parsing, NER, WSD, language models, and n-grams |
 | 273 | 2026-10-09 | Maintained consistency with the ongoing learning journey and development log |
+| 274 | 2026-10-10 | Studied advanced Python concepts, including decorators, getters and setters, static and class methods, and magic (dunder) methods |
 ---
 
 ## Rules
