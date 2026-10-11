@@ -283,6 +283,7 @@ across software engineering domains.
 | 272 | 2026-10-08 | Studied NLP topics including POS tagging, CFG and syntactic parsing, NER, WSD, language models, and n-grams |
 | 273 | 2026-10-09 | Maintained consistency with the ongoing learning journey and development log |
 | 274 | 2026-10-10 | Studied advanced Python concepts, including decorators, getters and setters, static and class methods, and magic (dunder) methods |
+| 275 | 2026-10-11 | Studied advanced Python concepts, including exception handling, custom exceptions, map/filter/reduce, the walrus operator, and *args/**kwargs |
 ---
 
 ## Rules
