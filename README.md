@@ -292,6 +292,7 @@ across software engineering domains.
 | 281 | 2026-10-17 | Python project notes and reviewed the structure of previously covered concepts |
 | 282 | 2026-10-18 | Completed assignments and case study work for Artificial Intelligence (AI), Natural Language Processing (NLP), and Computer Networks (CN) |
 | 283 | 2026-10-19 | Reviewed and organized academic notes across AI, NLP, and Computer Networks for continued exam preparation |
+| 284 | 2026-10-20 | Studied Python virtual environments and package management, API integration using Requests, regular expressions, and multithreading |
 ---
 
 ## Rules
