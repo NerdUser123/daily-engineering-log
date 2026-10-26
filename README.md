@@ -298,6 +298,7 @@ across software engineering domains.
 | 287 | 2026-10-23 | Started learning Data Science and explored its fundamentals and core concepts |
 | 288 | 2026-10-24 | Worked on a Data Science project covering data cleaning and structuring, and explored recommendation systems for finding people and pages users may know or like |
 | 289 | 2026-10-25 | Practiced Data Science project concepts, including data cleaning and structuring, and recommendation systems for people and pages |
+| 290 | 2026-10-26 | Maintained the Data Science learning roadmap and organized topics for upcoming practice |
 ---
 
 ## Rules
