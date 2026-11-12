@@ -315,6 +315,7 @@ across software engineering domains.
 | 304 | 2026-11-09 | Practiced Python programming and worked on strengthening core programming concepts through hands-on coding |
 | 305 | 2026-11-10 | Maintained the daily development log and tracked progress in the ongoing learning journey |
 | 306 | 2026-11-11 | Completed six academic assignments and prepared PowerPoint presentations for all subjects |
+| 307 | 2026-11-12 | Studied uncertainty handling in AI, including non-monotonic and probabilistic reasoning, Bayes' theorem, certainty factors, Bayesian networks, Dempster-Shafer theory, and fuzzy logic. Also covered fuzzy sets, membership functions, and NLP concepts including syntactic, semantic, and pragmatic processing |
 ---
 
 ## Rules
